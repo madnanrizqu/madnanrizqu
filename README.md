@@ -1,6 +1,10 @@
-### Hi there 👋
-I am a Frontend Engineer with 3 years of professional experience
+### Providing Software Engineering Services
+Hi I'm Adnan
+I'm able to give you these services:
+Web sites: I'll build your website to be fast and beautiful so that your visitors can get the value you’re offering them without any confusion!
+Web apps: I'll build your web applications performant and delightful. So your users will be engaged and come back for more!
+Web API's: I'll build the application behind the scenes that make your web applications / mobile applications come to life!
 
-For the past three years, i have been building UI experiences with ReactJS and Vue.js. During that time i had experiences being a individual contributor, a lead for a Frontend team and a double role as a Developer + Scrum Master. I have experience making design decision on frontend projects and building a component library that allows consistent and reusable UI. I also implemented a UI visual testing workflow with CI/CD
+As a Software Engineer, I have been a professional in the industry for 3 years in high profile companies such as Grab and Ruangguru. Along my journey, i have developed skills in React.js, Vue.js, Javascript, Typescript, ReasonML/ReScript, Golang, Node.js, Express.js, MongoDB, and SQL
 
-I graduated with cumlaude honor in Bachelors of Informatics and am continuously striving to learn Software Engineering. Lately i have been learning Backend Engineering
+It's my passion to create web projects. I hope I can help you with what you need!
